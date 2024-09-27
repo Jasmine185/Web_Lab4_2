@@ -1,0 +1,58 @@
+{
+    "users":[
+        {
+            "firstname":"Zhang",
+            "lastname":"San",
+            "emails":"123@163.com",
+            "dateOfBirth":"1936.2.5",
+            "preferences":{
+                "theme":"grey",
+                "language":"English",
+                "notifications":true,
+                "subscription":false
+            },
+            "address":{
+                "street":"Greet Street 189",
+                "city":"San francisco",
+                "state":"America",
+                "zipCode":"12356"
+            }
+        },
+        {
+            "firstname":"Li",
+            "lastname":"Si",
+            "emails":"183@163.com",
+            "dateOfBirth":"1999.3.6",
+            "preferences":{
+                "theme":"dark",
+                "language":"Spanish",
+                "notifications":false,
+                "subscription":true
+            },
+            "address":{
+                "street":"Greet Street 188",
+                "city":"San francisco",
+                "state":"America",
+                "zipCode":"12563"
+            }
+        },
+        {
+            "firstname":"Wang",
+            "lastname":"Wu",
+            "emails":"1293@163.com",
+            "dateOfBirth":"2010.3.7",
+            "preferences":{
+                "theme":"light",
+                "language":"Korea",
+                "notifications":false,
+                "subscription":true
+            },
+            "address":{
+                "street":"Greet Street 187",
+                "city":"San francisco",
+                "state":"America",
+                "zipCode":"12589"
+            }
+        }
+    ]
+}
